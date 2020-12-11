@@ -34,6 +34,15 @@ dirty secrets of data science
 16. we have no model of vision, audition, or anything but Euclidean
 1. just use random forest
 
+## existing stuff doesn't work
+
+1. build compelling evidence that existing tools don't work well/easily
+2. pseudocode your new plan
+3. build compelling evidence that your new thing does work in simulated settings where their thing doesn't work
+3. build compelling evidence that your new thing does *not* work in simulated settings where their thing does work
+4. build compelling evidence that your new thing is useful *scientifically*
+
+
 
 
 
