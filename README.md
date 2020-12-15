@@ -8,6 +8,7 @@ dirty secrets of data science
 2. bayesian theory is fundamentally flawed
 3. t-test are not what you want
 4. p-values are fine
+5. pre-registration is good
 8. hypothesis testing is estimating mutual information
 13. your permutation test makes some assumptions
 
