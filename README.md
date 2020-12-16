@@ -52,7 +52,12 @@ dirty secrets of data science
 3. build compelling evidence that your new thing does *not* work in simulated settings where their thing does work
 4. build compelling evidence that your new thing is useful *scientifically*
 
+## 6 communicating data science
 
+1. how to write a paper
+1. how to make a figure
+1. words/phrases to avoid
+2. how to review a paper
 
 
 
