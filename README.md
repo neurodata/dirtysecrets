@@ -5,6 +5,9 @@ dirty secrets of data science
 ## 0 preliminaries
 
 1. Data Science: The Three Cultures
+2. data -> data | data -> objects | objects -> understanding
+3. graphs > images > vectors
+4. hypothesis testing < classification < ranking < regression < density estimation < model selection
 
 
 ## 1 hypothesis testing
