@@ -27,7 +27,7 @@ dirty secrets of data science
 15. high-dimensional statistics is impossible - you need to embed in a low dimensional space (implicitly or explicitly)
 16. we have no model of vision, audition, or anything but Euclidean
 13. estimation vs prediction & necessary vs sufficient & global vs local
-
+12. all learning is sequential
 
 ## 3 unsupervised learning
 
