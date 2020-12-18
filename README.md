@@ -8,7 +8,7 @@ dirty secrets of data science
 2. data -> data | data -> objects | objects -> understanding
 3. graphs > images > vectors
 4. hypothesis testing < classification < ranking < regression < density estimation < model selection
-
+5. no free lunch doesn't mean that, but arbitrary slow convergence theorem does
 
 ## 1 hypothesis testing
 
