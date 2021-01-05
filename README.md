@@ -4,7 +4,7 @@ dirty secrets of data science
 
 ## 0 preliminaries
 
-1. Data Science: The Three Cultures
+1. Data Science: The Three Cultures (http://www.stat.columbia.edu/~gelman/research/published/gelman_breiman.pdf)
 2. data -> data | data -> objects | objects -> understanding
 3. graphs > images > vectors
 4. hypothesis testing < classification < ranking < regression < density estimation < model selection
@@ -12,8 +12,9 @@ dirty secrets of data science
 
 ## 1 hypothesis testing
 
-1. frequentist theory is fundamentally flawed
-2. bayesian theory is fundamentally flawed
+1. statistical theory is fundamentally flawed (https://plato.stanford.edu/entries/statistics/)
+  1. unresolved problems with classical stats
+  2. unresolved problems with bayesian stats (http://www.stat.columbia.edu/~gelman/research/published/holes.pdf)
 3. t-test are not what you want
 4. p-values are fine
 5. pre-registration is good
