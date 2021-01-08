@@ -4,7 +4,7 @@ dirty secrets of data science
 
 ## 0 preliminaries
 
-1. Data Science: The Three Cultures (http://www.stat.columbia.edu/~gelman/research/published/gelman_breiman.pdf)
+1. Data Science: The Three Cultures (https://docs.google.com/document/d/12XqXrTDH8jwFkmVb7vGB-KUDIfNmAtftPPtqaMr6DbE/edit?usp=sharing, and reference this: http://www.stat.columbia.edu/~gelman/research/published/gelman_breiman.pdf)
 2. data -> data | data -> objects | objects -> understanding
 3. graphs > images > vectors
 4. hypothesis testing < classification < ranking < regression < density estimation < model selection
