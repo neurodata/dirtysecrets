@@ -15,7 +15,7 @@ dirty secrets of data science
     2. for classification
     3. bias/complexity
 6. the desiderata of learning methods (https://bitsandbrains.io/2018/09/24/modeling-desiderata.html)
-7. would you look at it?
+7. would you look at it (datasaurus, same with graphs, also other gifs)?
 
 ## 1 hypothesis testing
 
