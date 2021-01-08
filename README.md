@@ -24,7 +24,7 @@ dirty secrets of data science
 
 ## 2 estimation
 
-12. you didn't want the mean or variance anway
+12. you didn't want the mean or variance anway (robust statistics, show generalization error vs robust statistics)
 15. high-dimensional statistics is impossible - you need to embed in a low dimensional space (implicitly or explicitly)
 16. we have no model of vision, audition, or anything but Euclidean
 13. estimation vs prediction & necessary vs sufficient & global vs local
@@ -45,20 +45,25 @@ dirty secrets of data science
 16. we have no model of vision, audition, or anything but Euclidean
 1. just use random forest
 
-## 5 existing stuff doesn't work
+## 5 existing stuff doesn't work (https://bitsandbrains.io/2019/11/21/new-method.html)
 
+6. the desiderata of learning methods (https://bitsandbrains.io/2018/09/24/modeling-desiderata.html)
 1. build compelling evidence that existing tools don't work well/easily
 2. pseudocode your new plan carefully
 3. build compelling evidence that your new thing does work in simulated settings where their thing doesn't work
 3. build compelling evidence that your new thing does *not* work in simulated settings where their thing does work
 4. build compelling evidence that your new thing is useful *scientifically*
+5. FIRM guidelines (https://bitsandbrains.io/2018/10/21/numerical-packages.html)
 
 ## 6 communicating data science
 
 1. how to write a paper
 1. how to make a figure
+1. how to write a paragraph
 1. words/phrases to avoid
 2. how to review a paper
+1. how to make slides
+1. how to choose a project
 
 
 
